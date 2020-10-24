@@ -9,6 +9,26 @@ Ranking nacional das melhores cidades para viver em 2020:
 7 - Jaraguá do Sul - SC;
 8 - São José dos Campos - SP;
 9 - Sorocaba - SP;
-10 - Brusque - SC
+10 - Brusque - SC;
+11 - Piracicaba - SP;
+12 - Presidente Prudente - SP;
+13 - Botucatu - SP;
+14 - Joinville - SC;
+15 - Blumenau - SC;
+16 - Chapecó - SC;
+17 - Maringá - PR;
+18 - Assis - SP;
+19 - Caxias do Sul - RS;
+20 - Baurú - SP;
+21 - Balneário Camboriú - SC;
+22 - Catanduva - SP;
+23 - Itú - SP;
+24 - Ribeirão Preto - SP;
+25 - Mogi das Cruzes - SP;
+26 - Belo Horizonte - MG;
+27 - Salto - SP;
+28 - Tatui - SP;
+29 - Suzano - SP;
+30 - Barretos - SP
 
 Fonte: IGM-CFA, Índice de Governança Municipal do Conselho Federal de Administração 
